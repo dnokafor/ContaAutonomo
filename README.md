@@ -13,7 +13,7 @@ A self-hosted web application for freelancers and small businesses to manage inv
 - Activity logging (file or database) with configurable retention
 - Built-in task scheduler for periodic jobs
 - Dashboard with financial overview, tax calculations, and exchange rates
-
+ 
 ### Modules (enable/disable in Settings → Modules)
 
 | Module | Description |
